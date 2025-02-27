@@ -150,9 +150,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/PY-PyCharm-orange">&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Ecl.-Eclipse-pink">&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/GC-GoogleCollab-blue">&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/A-Atom-yellowgreen">&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/S-Spyder-orange">&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/N-Notion-green">&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/AStu.-Android%20Studio-blue"><br><br>
 </div>
 </div>
