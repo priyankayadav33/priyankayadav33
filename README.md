@@ -126,7 +126,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/priyanka-yadav-0931b3220)/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/priyankayadav33)/) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=GitHub&logoColor=white)](https://github.com/priyankayadav33)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-1f1f1f?style=flat&logo=LeetCode&logoColor=orange)](https://leetcode.com/priyankayadavvvv)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/priyankayadav303)
